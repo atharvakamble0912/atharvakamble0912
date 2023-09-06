@@ -1,3 +1,5 @@
+<img align="center" alt="Main Banner" src="./Banner.png">
+
 <h1 align="center">Namaste  🙏<!--👋-->, I'm Atharva Kamble</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
