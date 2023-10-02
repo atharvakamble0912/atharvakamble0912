@@ -7,7 +7,8 @@
 
 - 🎓  Pursuing B.E. in **Computer Engineering**
   
-- 🌱 I’m currently learning **Machine Learning**
+<!--- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**-->
+🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **atharvakamble0912@gmail.com**
 
